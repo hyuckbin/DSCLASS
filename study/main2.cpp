@@ -7,7 +7,7 @@ int main(){
     int blankcount =0;
     getline(cin,alpha);
     string append = "";
-
+//s
     for(char ch : alpha){
         ch = toupper(ch);
         append+=ch;
